@@ -83,4 +83,15 @@
     "callsign": "FINNCOMM",
     "virtual": true
   }
-]
+  {
+    "icao": "SCF",
+    "name": "VIRTUAL TIANMENG",
+    "callsign": "SKYDREAM",
+    "virtual": true
+  }
+  {
+    "icao": "HOX",
+    "name": "VIRTUAL TIANMENG",
+    "callsign": "HARMONY",
+    "virtual": true
+    
